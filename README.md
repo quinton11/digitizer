@@ -1,6 +1,7 @@
 # digitizer
 Write a number between 0 and 9 using a pygame interface and predict the number. A revamp of my old `mnist_predict` project. Goal was to test model inference in a pygame setup
 
+![digitizer](https://github.com/quinton11/mnist-predict/assets/70300837/c2340c20-f38d-42cc-846a-56a5caf94e26)
 
 The simple digit model was trained on the mnist dataset in `model1.py` script.
 
